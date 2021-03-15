@@ -24,7 +24,10 @@ namespace WindowsFormsApp1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello" + txtBox1);
+            MessageBox.Show("Welcome to" + txtBox1 + "'s program");
+            MessageBox.Show("Hello" + txtBox1.Text + "and" + txtBox2.Text);
+              
+       
 
         }
     }

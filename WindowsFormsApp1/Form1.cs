@@ -19,7 +19,7 @@ namespace WindowsFormsApp1
 
         private void Button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Goodbye");
+            MessageBox.Show("welcome to jordan's program");
         }
 
         private void Form1_Load(object sender, EventArgs e)
